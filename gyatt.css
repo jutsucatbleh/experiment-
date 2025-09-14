@@ -1,0 +1,19 @@
+ul {
+  
+}
+ul li{
+  list-style:none;
+  display:inline-block;
+  align-items:center;
+  margin:0;
+  padding:0;
+}
+ul a{
+}
+div{
+  text-align:center;
+}
+p{
+  text-align:center;
+}
+
