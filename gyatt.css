@@ -1,17 +1,24 @@
-ul {
+nav .wrapper{
+  display:flex;
+  justify-content:space-between;
+}
+nav ul{
+  display:flex;
+  margin:10px;
+}
+
+ul{
   
 }
 ul li{
-  list-style:none;
-  display:inline-block;
   align-items:center;
-  margin:0;
-  padding:0;
+  list-style:none;
 }
-ul a{
-}
-div{
-  text-align:center;
+ul li a{
+  text-decoration:none;
+  margin:0 10px;
+  padding:
+  
 }
 p{
   text-align:center;

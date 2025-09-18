@@ -1,9 +1,25 @@
-h1{
-  color:black;
+
+.first p{
   text-align:center;
-  background-color:grey;
 }
-p{
-  text-align:center
+.second h1{
+  background-color:#eee;
+}
+nav ul{
+  display:flex;
+  margin:10px;
+}
+ul li{
+  align-items:center;
+  list-style:none;
+  padding:0;
+}
+ul li a{
+  color:black;
+  text-decoration:none;
+  margine:0 10px;
+}
+ul li a:hover{
+  color:purple;
 }
 
